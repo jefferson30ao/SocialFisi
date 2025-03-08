@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "307024567342",
+    "firebase_url": "https://socialfisi-dbc3b-default-rtdb.firebaseio.com/",
+    "project_id": "socialfisi-dbc3b",
+    "storage_bucket": "socialfisi-dbc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307024567342:android:a9c6c787e18ac7abfd53bf",
+        "android_client_info": {
+          "package_name": "com.example.mnu92.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307024567342-j6mhbm4te9mg8g8u40ebn3739084hq6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mnu92.socialapp",
+            "certificate_hash": "1fa568a638beda5e66067b3344867d04883c0530"
+          }
+        },
+        {
+          "client_id": "307024567342-vgcfj7318q1aueji23r6v1gu645si4kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Y4FN4pmYHUAW8hNIBJbPSiq6Qey0FRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307024567342-vgcfj7318q1aueji23r6v1gu645si4kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

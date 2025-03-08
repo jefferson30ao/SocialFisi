@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SocialFisi</string>
+    <string name="title_activity_posts">SocialFisi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="alert_delete_title">¡ALERTA!</string>
+    <string name="content_delete_action">¿Estás seguro de que deseas borrar?</string>
+    <string name="warning">¡AVISO!</string>
+    <string name="dete_img">¿Deseas borrar la imagen?</string>
+
+    <string name="descripcion_audio">Reproducir audio</string>
+    <string name="descripcion_mic">Reproducir mic</string>
+    <string name="descripcion_cameravid">Reproducir camera</string>
+    <string name="descripcion_cameraima">Reproducir camera</string>
+    <string name="descripcion_video">Reproducir mic</string>
+    <string name="descripcion_image">Reproducir image</string>
+
+    <string name="descripcion_fav">Reproducir fav</string>
+    <string name="descripcion_view">Reproducir view</string>
+</resources>
